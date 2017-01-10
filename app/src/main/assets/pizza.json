@@ -1,0 +1,16 @@
+{
+  "pizza": [
+    {
+      "type": "margherita",
+      "ingredients": ["- 1 tomato sauce", "- 1 mozzarella", "- 1 spoon of oil", "- 1 spoon of salt", "- 1 lievito", "- 1kg of farina", "water"],
+      "process": "Process: Ammassa la farina with water until it's a smooth impasto, then metti tomato and mozzarella. Let cook for 20 minutes at 180°.",
+      "image": "margherita"
+    },
+    {
+      "type": "diavola",
+      "ingredients": ["- 1 tomato sauce", "- A little bit of salame",  "- 1 mozzarella", "- 1 spoon of oil", "- 1 spoon of salt", "- 1 lievito", "- 1kg of farina", "water"],
+      "process": "Process: Ammassa la farina with water until it's a smooth impasto, then add tomato, salame and mozzarella. Let cook for 20 minutes at 180°.",
+      "image": "diavola"
+    }
+  ]
+}

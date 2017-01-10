@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Italian Recipes</string>
+    <string name="title_activity_recipes_list">Recipes List</string>
+    <string name="title_activity_detail">Recipe Detail</string>
+    <string name="action_settings">Setting</string>
+
+    <string name="cardDescription">This is a cardView that launch a recipes list</string>
+    <string name="cardImageDescription">This is the cardView main image</string>
+    <string name="cardTitleDescription">This is the card title</string>
+    <string name="cardSubTitleDescription">This is the card description</string>
+    <string name="appBarDescription">This is the app bar</string>
+    <string name="toolbar">Toolbar</string>
+    <string name="adsDescription">An Ads</string>
+    <string name="gridDescription">Grid View</string>
+    <string name="recyclerViewDescription">Recycler View</string>
+    <string name="fabDescription">Fab</string>
+    <string name="ingredientsDescription">Ingredients</string>
+    <string name="processDescription">Process</string>
+    <string name="imageDescription">Image</string>
+    <string name="textViewDescription">Text View</string>
+    <string name="titleDescription">Title</string>
+    <string name="buttonDescription">Button that will launch maps activity</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="emptyString">Ciao</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="process">Process</string>
+
+    <string name="pasta">Pasta Recipes</string>
+    <string name="pizza">Pizza Recipes</string>
+    <string name="main">Main Course Recipes</string>
+    <string name="favourite">Favourite Recipes</string>
+
+
+    <string name="pasta_al_pomodoro">Pasta Al Pomodoro</string>
+    <string name="pasta_in_bianco">Pasta In Bianco</string>
+    <string name="pollo_al_forno">Pollo Al Forno</string>
+    <string name="tagliata">Tagliata</string>
+    <string name="margherita">Margherita</string>
+    <string name="diavola">Diavola</string>
+    <string name="pasta_al_pomodoro_json">PastaAlPomodoro</string>
+    <string name="pasta_in_bianco_json">PastaInBianco</string>
+    <string name="pollo_al_forno_json">pollo</string>
+    <string name="tagliata_json">tagliata</string>
+    <string name="margherita_json">margherita</string>
+    <string name="diavola_json">diavola</string>
+
+
+    <string name="detailIngredients">Ingredients:</string>
+    <string name="detailProcess">Process:</string>
+    <string name="title_activity_favourite_list">Favourite List</string>
+    <string name="title_activity_favorite_detail">Favorite Detail</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="button">See On Map</string>
+
+    <string name="widgetTitle">Favourite Recipes</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

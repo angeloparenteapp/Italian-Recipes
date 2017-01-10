@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "221421503454",
+    "firebase_url": "https://italian-recipes-a7801.firebaseio.com",
+    "project_id": "italian-recipes-a7801",
+    "storage_bucket": "italian-recipes-a7801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221421503454:android:8164aca17ff4e62b",
+        "android_client_info": {
+          "package_name": "com.angeloparenteapp.italianrecipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221421503454-udticpqv3i1gbd51nmq2j7vleoemohvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJw7EkOusI5qTnk6kS3rO-2eNj2dgW8VM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

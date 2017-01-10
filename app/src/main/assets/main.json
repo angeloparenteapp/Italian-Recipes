@@ -1,0 +1,16 @@
+{
+  "main": [
+    {
+      "type": "pollo",
+      "ingredients": ["- 1 pollo intero", "- 1 spoon of oil", "- 1 spoon of salt", "- a pinch of prezzemolo"],
+      "process": "Process: let pollo cook for 2 hours at 180° with prezzemolo and salt.",
+      "image": "pollo"
+    },
+    {
+      "type": "tagliata",
+      "ingredients": ["- 1/2kg of beef", "- 1 spoon of oil", "- 1 spoon of salt", "- a pinch of rucola"],
+      "process": "Process: let the beef cook until the meet it's pink.",
+      "image": "tagliata"
+    }
+  ]
+}

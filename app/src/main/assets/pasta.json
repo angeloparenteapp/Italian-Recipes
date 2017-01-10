@@ -1,0 +1,16 @@
+{
+  "pasta": [
+    {
+      "type": "Pasta Al Pomodoro",
+      "ingredients": ["- 1 tomato sauce", "- 1 spoon of oil", "- 1 spoon of salt", "- a pinch of basilico"],
+      "process": "Pasta: Make water boil, then butta la pasta.\n\nCondimento: Make tomato sauce boil with salt and oil.",
+      "image": "Pasta Al Pomodoro"
+    },
+    {
+      "type": "Pasta In Bianco",
+      "ingredients": ["- parmigiano", "- olio", "- sale"],
+      "process": "Pasta: Make water boil with salt, then butta la pasta.\n\nCondimento: add salt and oil.",
+      "image": "Pasta In Bianco"
+    }
+  ]
+}
