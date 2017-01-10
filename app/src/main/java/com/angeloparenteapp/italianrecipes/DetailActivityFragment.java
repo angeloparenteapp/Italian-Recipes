@@ -146,19 +146,6 @@ public class DetailActivityFragment extends Fragment implements LoaderManager.Lo
 
             final String title = data.getString(COL_RECIPES_TYPE);
             detailTitle.setText(title);
-            /*if (title.equals("PastaAlPomodoro")) {
-                detailTitle.setText(R.string.pasta_al_pomodoro);
-            } else if (title.equals("PastaInBianco")) {
-                detailTitle.setText(R.string.pasta_in_bianco);
-            } else if (title.equals("margherita")) {
-                detailTitle.setText(title);
-            } else if (title.equals("diavola")) {
-                detailTitle.setText(title);
-            } else if (title.equals("tagliata")) {
-                detailTitle.setText(title);
-            } else if (title.equals("pollo")) {
-                detailTitle.setText(R.string.pollo_al_forno);
-            }*/
 
             if (!isEmpty()) {
                 if (!isFavorite(title)) {

@@ -50,19 +50,6 @@ public class FavouriteListAdapter extends CursorAdapter {
 
             String title = cursor.getString(FavouriteListFragment.COL_RECIPES_TYPE_FAV);
             viewHolder.titleView.setText(title);
-            /*if (title.equals("PastaAlPomodoro")) {
-                viewHolder.titleView.setText(R.string.pasta_al_pomodoro);
-            } else if (title.equals("PastaInBianco")) {
-                viewHolder.titleView.setText(R.string.pasta_in_bianco);
-            } else if (title.equals("margherita")) {
-                viewHolder.titleView.setText(title);
-            } else if (title.equals("diavola")) {
-                viewHolder.titleView.setText(title);
-            } else if (title.equals("tagliata")) {
-                viewHolder.titleView.setText(title);
-            } else if (title.equals("pollo")) {
-                viewHolder.titleView.setText(R.string.pollo_al_forno);
-            }*/
 
             String image = cursor.getString(FavouriteListFragment.COL_RECIPES_IMAGE_FAV);
             if (image.equals("Pasta Al Pomodoro")) {

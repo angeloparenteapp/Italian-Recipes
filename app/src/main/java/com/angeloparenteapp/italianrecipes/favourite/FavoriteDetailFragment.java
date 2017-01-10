@@ -148,19 +148,6 @@ public class FavoriteDetailFragment extends Fragment implements LoaderManager.Lo
 
             final String title = data.getString(COL_RECIPES_TYPE_FAV);
             detailTitle.setText(title);
-            /*if (title.equals("pastaAlPomodoro")) {
-                detailTitle.setText(R.string.pasta_al_pomodoro);
-            } else if (title.equals("pastaInBianco")) {
-                detailTitle.setText(R.string.pasta_in_bianco);
-            } else if (title.equals("margherita")) {
-                detailTitle.setText(title);
-            } else if (title.equals("diavola")) {
-                detailTitle.setText(title);
-            } else if (title.equals("tagliata")) {
-                detailTitle.setText(title);
-            } else if (title.equals("polloAlForno")) {
-                detailTitle.setText(R.string.pollo_al_forno);
-            }*/
 
             if (!isEmpty()) {
                 if (!isFavorite(title)) {
